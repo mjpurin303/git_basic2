@@ -12,3 +12,9 @@ gitの練習のためのリポジトリです
 
 ---
 
+```Python
+print('Hello')
+print('World')
+
+```
+
